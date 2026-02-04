@@ -33,12 +33,6 @@ This Java application simplifies library management tasks. It provides a user-fr
 
 ---
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
----
-
 ## Technologies Used
 
 * **Programming Language:** Java
