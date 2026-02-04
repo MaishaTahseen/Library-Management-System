@@ -46,18 +46,24 @@ This Java application simplifies library management tasks. It provides a user-fr
 
 ## Installation and Setup
 
-1. **Set Up MySQL Database:**
+1. **Download the Project:**
 
-   * Install MySQL and phpMyAdmin.
-   * Create a new database called **`library management system`**.
+   * Go to the repository: [Library Management System](https://github.com/MaishaTahseen/Library-Management-System)
+   * Click the green **Code** button and select **Download ZIP**.
+   * Extract the ZIP file to a folder on your computer.
+
+2. **Set Up MySQL Database:**
+
+   * Install MySQL and phpMyAdmin if not already installed.
+   * Create a new database called **`library_management_system`**.
    * Import the provided SQL file (`library_management_system.sql`) into this database using phpMyAdmin.
 
-2. **Configure Database Connection:**
+3. **Configure Database Connection:**
 
    * Open the `DatabaseConnection.java` file.
    * Update the connection details (host, username, password, database name) to match your MySQL setup.
 
-3. **Run the Application:**
+4. **Run the Application:**
 
    * Add the provided `.jar` file to your project or run it directly.
    * If using an IDE like IntelliJ IDEA or Eclipse, compile and run the project.
@@ -68,12 +74,6 @@ This Java application simplifies library management tasks. It provides a user-fr
 ## Maintainer
 
 Maisha Tahseen - MaishaTahseen
-
----
-
-## Download
-
-[Download](#)
 
 ---
 
