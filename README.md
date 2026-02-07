@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System (LMS)
 
 This Java application simplifies library management tasks. It provides a user-friendly graphical user interface (GUI) for librarians, students, and administrators to perform essential library operations. The system uses a MySQL database for robust data management and introduces a Publisher entity for enhanced book tracking.
 
